@@ -1,0 +1,11 @@
+1,Jose,21,Ing. Sistemas
+3,Maria,23,Ing. Electronica
+4,Tatiana,25,Chofer
+6,Irma,19,Ing. Sistemas
+7,Daniel,25,Ing. Civil
+9,Andres,30,Ing. Mecanica
+10,Ignacio,23,Ing. Sistemas
+11,Sandra,42,Ing. Sistemas
+12,Araceli,18,Administradora
+29,Alejo,24,Derecho
+30,asd,22,123
